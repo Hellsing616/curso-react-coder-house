@@ -1,0 +1,7 @@
+.btn-carrinho-compras{
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 3px;
+    counter-reset: rgb(44, 42, 42);
+    height: 50px;
+    width: 200px;
+}
